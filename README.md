@@ -1,0 +1,1 @@
+Competitive programming contest 를 위한 템플릿/라이브러리입니다.
